@@ -9,7 +9,7 @@ A while back I added a bunch of terrain generation hooks to Minecraft Forge, com
 ## What licenses govern this code?
 
 ### Textures
-With the exception of the mod logo, which is the [Killen tartan](http://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1971) designed by Paul Killen (no relation) the mods textures come from the [ExtrabiomesXL mod](https://github.com/ExtrabiomesXL/ExtrabiomesXL) and are governed by the [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US).
+With the exception of the mod logo, which is the [Killen tartan](http://www.tartanregister.gov.uk/tartanDetails.aspx?ref=1971) designed by Paul Killen (no relation) the mod's textures come from the [ExtrabiomesXL mod](https://github.com/ExtrabiomesXL/ExtrabiomesXL) and are governed by the [Creative Commons Attribution-ShareAlike 3.0 Unported License](http://creativecommons.org/licenses/by-sa/3.0/deed.en_US).
 
 ### Code
 With the exception of Acacia, Poplar and Redwood trees, all of this code is my own. I have donated this work to the public domain. Acacia and Redwood trees follow Nightshade_Proleath's alogorithm for the same trees in his [Forgotten Nature mod](http://www.minecraftforum.net/topic/1519278-) and the code is derived from his work. Poplar trees are direct copies from Nightshade_Proleath's work, and the code is his with changes to match my programming style. Nightshade_Proleath has given me carte blanche with regard to his code [here](http://www.minecraftforum.net/topic/1519278-) and he knew that I would release it in a publicly open way, but I cannot dictate the terms by which you use his code. Developers should refrain from using the tree gens without Nightshade_Proleath's permission.
