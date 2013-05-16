@@ -1,0 +1,21 @@
+[
+{
+  "modid": "scottishBiomes",
+  "name": "Scottish Biomes",
+  "description": "Adds biomes to Minecraft.",
+  "version": "1.0",
+  "mcversion": "1.5.1",
+  "url": "",
+  "updateUrl": "",
+  "authors": [
+    "Scott Killen"
+  ],
+  "credits": "By Scott Killen, based on the original idea by MisterFiber",
+  "logoFile": "/mods/scottishbiomes/logo.png",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+  ]
+}
+]
