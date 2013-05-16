@@ -24,7 +24,7 @@ A Forge terrain gen event (`WorldTypeEvent.InitBiomeGens`) is caught to insert G
 
 Reference `TerrainGenInjector` to see how GenLayers are inserted. Specifically, the `GroveGenerator` replaces bits of Forest with birch groves and Autumn tree groves, and the `WastelandGenerator` inserts small bits of wasteland into terrain generation--but only in specific places chosen by the mod.
 
-While writing this, I noticed that the HillGenerator remains unused. I'll leave it as an exercise for the reader to implement this in the proper place and explore what it does.
+While writing this, I noticed that `HillGenerator` remains unused. I'll leave it as an exercise for the reader to implement this in the proper place and explore what it does.
 
 ### Mini Groves
 Traditionally, features are added to terrain gen by implementing `IWorldGenerator` and passing the object to FML via `GameRegistry.registerWorldGenerator()`. FML then calls its collection of these objects _**after vanilla decoration finishes for a chunk**_. This means that `IWorldGenerator`s must deal with vanilla trees and other features. If you have ever seen one of Eloraam's [RedPower 2](http://www.eloraam.com/) volcanoes suspended in the top of a redwood tree from ExtrabiomesXL, you have seen the one of the side effects of this technique.
