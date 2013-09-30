@@ -35,7 +35,7 @@ By hooking forge's `DecorateBiomeEvent`, modders can decorate chunks with surgic
 The realm of modded Minecraft terrain generation remains relatively unexplored, despite the huge success of mods like ExtrabiomesXL. I encourage developers to use Eclipse's excellent search features to explore the minecraft code to see how Forge's terrain gen events (see `net.minecraftforge.event.terraingen`) can be used to realize the goals for their mods.
 
 * * *
-Except where note above:
+Except where noted above:
 
 <p xmlns:dct="http://purl.org/dc/terms/" xmlns:vcard="http://www.w3.org/2001/vcard-rdf/3.0#">
   <a rel="license"
