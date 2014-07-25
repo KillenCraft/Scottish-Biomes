@@ -26,7 +26,6 @@ import cpw.mods.fml.common.registry.GameRegistry;
 
 @Mod(modid = Loader.MODID, name = "Scottish Biomes",
         dependencies = "required-after:Forge@[7.0,);required-after:FML@[5.0.5,)")
-@NetworkMod(clientSideRequired = true, serverSideRequired = false)
 public class Loader
 {
     public static final String MODID = "scottishBiomes";
